@@ -1,2 +1,10 @@
 jupyter
 numpy
+matplotlib
+scipy
+imageio
+pillow
+h5py
+
+
+
