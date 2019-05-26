@@ -5,6 +5,7 @@ scipy
 imageio
 pillow
 h5py
+sklearn
 
 
 
